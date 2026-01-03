@@ -191,7 +191,10 @@ sections:
     type: DividerSection
 seo:
   metaTitle: Sanamdeep Chadha - Sanamdeep Kaur Chadha
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: >-
+    Explore the world of Sanamdeep Kaur Chadha, where fashion meets wellness.
+    Join her journey to empower women through style, confidence, and
+    self-expression.
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
