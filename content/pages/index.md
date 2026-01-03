@@ -195,7 +195,7 @@ seo:
     Explore the world of Sanamdeep Kaur Chadha, where fashion meets wellness.
     Join her journey to empower women through style, confidence, and
     self-expression.
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/Sanamdeep Kaur Chadha 9.JPG
   type: Seo
 type: PageLayout
 ---
