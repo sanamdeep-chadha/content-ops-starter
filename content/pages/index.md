@@ -26,7 +26,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: Sanamdeep Chadha
       color: text-primary
       type: Badge
     elementId: ''
