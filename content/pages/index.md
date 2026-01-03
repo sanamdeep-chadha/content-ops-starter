@@ -92,14 +92,21 @@ sections:
           textAlign: left
       type: TitleBlock
     subtitle: Travel and Lifestyle
-    text: >+
+    text: >
       Sanamdeep Chadha’s fashion expertise is showcased through her ability to
       curate both chic and practical outfits. From everyday street style to
       glamorous evening wear, her content is accessible to a diverse audience.
       Similarly, her beauty content is admired for its honest reviews, skincare
-      routines, and tips for glowing skin. She regularly collaborates with top
-      beauty brands, offering her followers trusted recommendations.
+      routines, and tips for glowing skin. Sanam Chadha regularly collaborates
+      with top beauty brands, offering her followers trusted recommendations.
 
+
+      In addition to her focus on fashion and beauty, Sanamdeep Kaur shares her
+      love for travel and lifestyle on her blog and social media. Whether it’s
+      exploring new cities or offering home decor ideas, her lifestyle content
+      emphasizes balance and the joy of embracing life's little pleasures. She
+      encourages her audience to live authentically, explore new cultures, and
+      appreciate the beauty in their surroundings.
     actions: []
     media:
       title: Title of the video
