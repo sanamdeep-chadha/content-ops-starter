@@ -174,10 +174,6 @@ sections:
       confident, and live authentically. Through her platform, she inspires
       people to express themselves creatively and celebrate their uniqueness.
     actions: []
-    media:
-      url: /images/hero2.svg
-      altText: Fun feature preview
-      type: ImageBlock
     colors: bg-light-fg-dark
     styles:
       self:
