@@ -121,9 +121,16 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Increase your reach
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: >+
+      **What is Sanamdeep Kaur Chadha known for?**
+
+
+
+      Sanamdeep Chadha is known for her fashion expertise, beauty tips, and
+      lifestyle content. She combines modern aesthetics with timeless style,
+      offering advice on everything from stylish outfits to skincare routines,
+      all while promoting authenticity and confidence.
+
     actions:
       - label: Get started
         url: /
