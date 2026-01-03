@@ -120,7 +120,7 @@ sections:
       text: FAQ about Sanamdeep Chadha
       color: text-dark
       type: TitleBlock
-    subtitle: Increase your reach
+    subtitle: ''
     text: >
       **What is Sanamdeep Kaur Chadha known for?**
 
