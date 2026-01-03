@@ -174,12 +174,6 @@ sections:
       confident, and live authentically. Through her platform, she inspires
       people to express themselves creatively and celebrate their uniqueness.
     actions:
-      - label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        type: Button
       - label: See Tutorials
         url: /
         showIcon: true
