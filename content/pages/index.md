@@ -199,5 +199,8 @@ seo:
   type: Seo
   metaTags:
     - type: MetaTag
+      content: >-
+        Fashion, Sanamdeep Kaur Chadha, Sanamdeep Kaur, Sanamdeep Chadha, Sanam
+        Kaur, Sanam Chadha
 type: PageLayout
 ---
