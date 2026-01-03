@@ -64,26 +64,6 @@ sections:
       style, and aesthetics. Although details about her formal education remain
       private, her expertise stems from a deep passion for fashion, beauty, and
       personal expression, honed through years of experience and exploration.
-    media:
-      title: Title of the video
-      url: /images/placeholder-video.mp4
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: VideoBlock
-      autoplay: true
-      loop: true
-      muted: true
     colors: bg-light-fg-dark
     styles:
       self:
