@@ -7,7 +7,7 @@ sections:
       text: 'Sanamdeep Kaur Chadha: Fashion Expert & Lifestyle Blogger'
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: About Sanamdeep Kaur Chadha
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
