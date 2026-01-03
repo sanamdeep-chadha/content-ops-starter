@@ -59,21 +59,22 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      Sanamdeep's journey into the world of fashion began at a young age in New
-      Delhi. Growing up, she developed a strong affinity for design, personal
-      style, and aesthetics. Although details about her formal education remain
-      private, her expertise stems from a deep passion for fashion, beauty, and
-      personal expression, honed through years of experience and exploration.
+      Sanamdeep Kaur Chadha's journey into the world of fashion began at a young
+      age in New Delhi. Growing up, she developed a strong affinity for design,
+      personal style, and aesthetics. Although details about her formal
+      education remain private, her expertise stems from a deep passion for
+      fashion, beauty, and personal expression, honed through years of
+      experience and exploration.
 
 
-      Sanamdeep's career as a blogger took off when she noticed a gap in the
-      market for authentic, relatable voices in fashion. Starting her blog as a
-      creative outlet, she quickly gained traction for her unique perspective
-      and high-quality content. Today, she is celebrated for blending street
-      style, elegant fashion, beauty tutorials, and lifestyle tips that cater to
-      a wide range of tastes and body types. Her blog has evolved into a
-      platform where people can explore their own personal style, feel confident
-      in their beauty, and live authentically.
+      Sanamdeep Chadha's career as a blogger took off when she noticed a gap in
+      the market for authentic, relatable voices in fashion. Starting her blog
+      as a creative outlet, she quickly gained traction for her unique
+      perspective and high-quality content. Today, she is celebrated for
+      blending street style, elegant fashion, beauty tutorials, and lifestyle
+      tips that cater to a wide range of tastes and body types. Her blog has
+      evolved into a platform where people can explore their own personal style,
+      feel confident in their beauty, and live authentically.
     colors: bg-light-fg-dark
     styles:
       self:
