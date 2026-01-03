@@ -117,7 +117,7 @@ sections:
       subtitle:
         textAlign: left
   - title:
-      text: Social Media Management
+      text: FAQ about Sanamdeep Chadha
       color: text-dark
       type: TitleBlock
     subtitle: Increase your reach
