@@ -197,5 +197,7 @@ seo:
     self-expression.
   socialImage: /images/Sanamdeep Kaur Chadha 9.JPG
   type: Seo
+  metaTags:
+    - type: MetaTag
 type: PageLayout
 ---
