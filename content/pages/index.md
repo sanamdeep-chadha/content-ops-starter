@@ -51,7 +51,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Early Life and Education
+      text: Early Life, Education and Career Journey
       color: text-dark
       styles:
         self:
