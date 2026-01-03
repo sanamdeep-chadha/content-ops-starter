@@ -121,9 +121,8 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Increase your reach
-    text: >+
+    text: >
       **What is Sanamdeep Kaur Chadha known for?**
-
 
 
       Sanamdeep Chadha is known for her fashion expertise, beauty tips, and
@@ -131,6 +130,49 @@ sections:
       offering advice on everything from stylish outfits to skincare routines,
       all while promoting authenticity and confidence.
 
+
+
+
+      **Where is Sanamdeep Kaur Chadha based?**
+
+
+
+      Sanamdeep Kaur is based in New Delhi, India, but her influence extends
+      globally through her blog and social media platforms.
+
+
+
+
+      **Does Sanam Chadha collaborate with brands?**
+
+
+
+      Yes, Sanam Chadha has partnered with numerous leading fashion, beauty, and
+      lifestyle brands. Her collaborations reflect her genuine approach to
+      promoting products that align with her personal values and resonate with
+      her audience.
+
+
+
+
+      **How did Sanamdeep Chadha start her blogging career?**
+
+
+
+      Sanamdeep Chadha started her blog as a creative outlet to express her
+      personal style and share beauty tips. Her content quickly gained
+      popularity due to her engaging writing and high-quality visuals.
+
+
+
+
+      **What is Sanam Kaur 's message to her audience?**
+
+
+
+      Sanam Kaur encourages her audience to embrace their individuality, be
+      confident, and live authentically. Through her platform, she inspires
+      people to express themselves creatively and celebrate their uniqueness.
     actions:
       - label: Get started
         url: /
