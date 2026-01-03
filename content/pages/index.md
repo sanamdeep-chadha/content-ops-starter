@@ -58,11 +58,12 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: This is a subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      Sanamdeep's journey into the world of fashion began at a young age in New
+      Delhi. Growing up, she developed a strong affinity for design, personal
+      style, and aesthetics. Although details about her formal education remain
+      private, her expertise stems from a deep passion for fashion, beauty, and
+      personal expression, honed through years of experience and exploration.
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
