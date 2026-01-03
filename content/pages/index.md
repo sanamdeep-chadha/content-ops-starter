@@ -92,11 +92,14 @@ sections:
           textAlign: left
       type: TitleBlock
     subtitle: Travel and Lifestyle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+      Sanamdeep Chadha’s fashion expertise is showcased through her ability to
+      curate both chic and practical outfits. From everyday street style to
+      glamorous evening wear, her content is accessible to a diverse audience.
+      Similarly, her beauty content is admired for its honest reviews, skincare
+      routines, and tips for glowing skin. She regularly collaborates with top
+      beauty brands, offering her followers trusted recommendations.
+
     actions: []
     media:
       title: Title of the video
