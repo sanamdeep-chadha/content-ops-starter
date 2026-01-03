@@ -19,16 +19,7 @@ sections:
       known for her ability to curate stylish looks, share valuable beauty tips,
       and offer lifestyle advice that celebrates individuality and confidence.
 
-    actions:
-      - label: See Tutorials
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
+    actions: []
     media:
       url: /images/Sanam Kaur.JPG
       altText: Unblock your team boost your time to production preview
