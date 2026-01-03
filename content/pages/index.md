@@ -20,15 +20,6 @@ sections:
       and offer lifestyle advice that celebrates individuality and confidence.
 
     actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
       - label: See Tutorials
         altText: ''
         url: /
