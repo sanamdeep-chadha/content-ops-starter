@@ -8,10 +8,17 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: About Sanamdeep Kaur Chadha
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      Sanamdeep Kaur Chadha is a renowned fashion expert, beauty curator, and
+      lifestyle blogger who has garnered a loyal following for her distinct
+      style, empowering content, and authenticity. Based in New Delhi,
+      [Sanamdeep
+      Chadha](https://www.zupyak.com/p/4857107/t/sanamdeep-kaur-chadha-a-trailblazer-in-fashion-wellness-and-female-empowerment)
+      has made a significant impact in the world of fashion, beauty, and
+      lifestyle by blending modern aesthetics with timeless elegance. She’s
+      known for her ability to curate stylish looks, share valuable beauty tips,
+      and offer lifestyle advice that celebrates individuality and confidence.
+
     actions:
       - label: Get started
         altText: ''
