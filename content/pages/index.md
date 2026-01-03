@@ -57,7 +57,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is a subtitle
+    subtitle: ''
     text: >
       Sanamdeep's journey into the world of fashion began at a young age in New
       Delhi. Growing up, she developed a strong affinity for design, personal
